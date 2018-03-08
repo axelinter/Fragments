@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stock_text">Stock</string>
+    <string-array name="listasitems">
+        <item>Hola</item>
+        <item>Hola2</item>
+        <item>Hola3</item>
+        <item>Hola4</item>
+    </string-array>
+
+</resources>
